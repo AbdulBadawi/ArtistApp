@@ -1,0 +1,2 @@
+D:\Aaqib\Own Project\ArtistApp\artistapp.client\obj\Debug\artistapp.client.esproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ArtistApp\ArtistApp\artistapp.client\obj\Debug\artistapp.client.esproj.CoreCompileInputs.cache
